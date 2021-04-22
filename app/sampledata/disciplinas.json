@@ -1,0 +1,29 @@
+{
+  "disciplinas": [
+    {
+      "titulo_disciplina": "Linguagem de Programação",
+      "carga_horaria_disciplina": "40 horas",
+      "link_ementa_disciplina": "ver ementa"
+    },
+    {
+      "titulo_disciplina": "Aplicações Móveis",
+      "carga_horaria_disciplina": "60 horas",
+      "link_ementa_disciplina": "ver ementa"
+    },
+    {
+      "titulo_disciplina": "Técnicas Avançadas",
+      "carga_horaria_disciplina": "80 horas",
+      "link_ementa_disciplina": "ver ementa"
+    },
+    {
+      "titulo_disciplina": "Banco de dados II",
+      "carga_horaria_disciplina": "80 horas",
+      "link_ementa_disciplina": "ver ementa"
+    },
+    {
+      "titulo_disciplina": "Fundamentos de Front-End",
+      "carga_horaria_disciplina": "60 horas",
+      "link_ementa_disciplina": "ver ementa"
+    }
+  ]
+}
